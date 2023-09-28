@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "name": "Ankit",
+      "email": "Ankit@gmail.com",
+      "password": "Ankit123",
+      "id": 1
+    },
+    {
+      "email": "Rishu@mail.com",
+      "name": "Rishu",
+      "password": "Rishu123",
+      "id": 2
+    },
+    {
+      "email": "R@mail.com",
+      "name": "R",
+      "password": "R123",
+      "id": 3
+    },
+    {
+      "email": "A@mail.com",
+      "name": "A",
+      "password": "A123",
+      "id": 4
+    },
+    {
+      "email": "John@gmail.com",
+      "name": "John",
+      "password": "John123",
+      "id": 5
+    },
+    {
+      "email": "John@gmail.com",
+      "name": "John",
+      "password": "John123",
+      "id": 6
+    },
+    {
+      "email": "John@gmail.com",
+      "name": "John",
+      "password": "John123",
+      "id": 7
+    },
+    {
+      "email": "Ankit@gmail.com",
+      "name": "Ankit",
+      "password": "Ankit123",
+      "id": 8
+    }
+  ],
+  "resturant": [
+    {
+      "name": "KFC",
+      "address": "Delhi",
+      "contact": "111222",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "Delhi",
+      "contact": 222
+    }
+  ]
+}
